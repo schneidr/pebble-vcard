@@ -1,0 +1,10 @@
+build
+include
+lib
+pebble_app.ld
+tools
+waf
+wscript
+.waf*
+.lock*
+resources/src/images/qrcode-gerald.png

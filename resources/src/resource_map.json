@@ -1,0 +1,16 @@
+
+{"friendlyVersion": "VERSION",
+ "versionDefName": "VERSION",
+ "media": [
+ 	   {
+        "type": "png",
+        "defName": "QRCODE",
+        "file": "images/qrcode.png"
+       },
+	   {
+	    "type":"raw",
+	    "defName":"DUMMY",
+	    "file":"resource_map.json"
+	   }
+	  ]
+}
